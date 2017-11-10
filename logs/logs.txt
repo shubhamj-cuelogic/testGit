@@ -1,5 +1,5 @@
 09/11/2017 11:33:49.995 - [Shubham Automation] - [INFO] - java.util.logging.ConsoleHandler@6c40365c
-09/11/2017 11:33:49.996 - [Shubham Automation] - [INFO] - [ TestRunner : setUp ] In Before Suite
+09/11/2017 11:33:49.996 - [Shubham Automation] - [INFO] - [ TestRunner : setUp ] In Before Suites
 09/11/2017 11:33:50.205 - [Shubham Automation] - [INFO] - [ AutomationTestCase : setup ] Begin Test case : Test_Steps4
 09/11/2017 11:34:11.060 - [Shubham Automation] - [INFO] - [ Homepage : button_MyAccount ] My Account Link is found on Home Page
 09/11/2017 11:34:16.442 - [Shubham Automation] - [INFO] - [ LoginPage : txtbx_UserName ] Username text box found on the Login Page
